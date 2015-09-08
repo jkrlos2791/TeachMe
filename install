@@ -1,0 +1,3 @@
+[32mMigration table created successfully.[39m
+[32mMigrated:[39m 2014_10_12_000000_create_users_table
+[32mMigrated:[39m 2014_10_12_100000_create_password_resets_table
